@@ -2,7 +2,7 @@
 
 💼: SWE Intern on the C + AI team @ Microsoft
 
-🖥: React Native mobile app lead @ <a href="https://gotechnica.org/">Technica</a>
+🖥: React Native mobile app lead @ <a href="https://gotechnica.org/" target="_blank">Technica</a>
 
 🌐: Check out my <a href="https://cheymonty.github.io" target="_blank">portfolio</a>
 
